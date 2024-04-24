@@ -1,0 +1,15 @@
+name: betterfishing
+version: "0.3"
+author: ArtByteFilip
+main: eu.artbytefilip.BetterCore
+description: Better Fishing plugin.
+api-version: 1.13
+commands:
+  betterfishing:
+    description: Otvorí GUI hráčovi
+    usage: /betterfishing
+    aliases: bf
+  prisonsellall:
+    description: Predá hráčom získané blocky z prison.
+    usage: /prisonsellall
+    aliases: psellall
